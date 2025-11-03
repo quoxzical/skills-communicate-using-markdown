@@ -1,5 +1,9 @@
+4
 - [ ] Call the GP
 - [ ] Get referral
 - [ ] Take matters into own hands
 - [ ] Make an appointment
 - [ ] Start feeling better
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
