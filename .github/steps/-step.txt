@@ -1,7 +1,5 @@
-# A task list
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+## A task list
+
 - [ ] Call the GP
 - [ ] Get referral
 - [ ] Take matters into own hands
