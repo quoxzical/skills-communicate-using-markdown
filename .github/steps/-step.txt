@@ -1,5 +1,5 @@
-- [] Call the GP
-- [] Get referral
-- [] Take matters into own hands
-- [] Make an appointment
-- [] Start feeling better
+- [ ] Call the GP
+- [ ] Get referral
+- [ ] Take matters into own hands
+- [ ] Make an appointment
+- [ ] Start feeling better
