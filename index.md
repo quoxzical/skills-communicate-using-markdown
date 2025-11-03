@@ -13,9 +13,13 @@ This is take two of this.
 ``` javascript
 var myVar = "Hello, world!";
 ```
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [ ] Call Nurse
+- [ ] Leave message
+- [ ] Take matters into my own hands
+- [ ] Research doctors
+- [ ] Make an appointment
+- [ ] Start process to feel better
  
+
 
 
