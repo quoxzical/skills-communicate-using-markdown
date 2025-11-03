@@ -1,7 +1,7 @@
-## A task list
-
+```md
 - [ ] Call the GP
 - [ ] Get referral
 - [ ] Take matters into own hands
 - [ ] Make an appointment
 - [ ] Start feeling better
+```
