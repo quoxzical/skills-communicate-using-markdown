@@ -1,1 +1,5 @@
-4
+- [] Call the GP
+- [] Get referral
+- [] Take matters into own hands
+- [] Make an appointment
+- [] Start feeling better
